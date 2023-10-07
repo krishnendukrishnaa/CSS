@@ -1,0 +1,43 @@
+#fit
+{
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px 50px;  
+}
+.drop
+{
+    display: inline-block;
+    padding: 0 20px;
+}
+.gym
+{
+    text-decoration: none;
+    color: white;
+}
+.type
+{
+    min-height: 30px;
+    min-width: 20px;
+    margin: 5px;
+    border-radius: 5px;
+    width: 400px;
+    text-align: center;
+}
+#gy
+{
+    position: absolute;
+    left: 200px; 
+    top: 300px;
+    border-style: solid;
+    flex-direction: row;
+    font-family: serif;
+    
+}
+#but
+{
+    border-radius: 10px;
+    width: 150px;
+    margin-left: 20px;
+    background-color:black;
+    color: white;
+}

@@ -1,0 +1,41 @@
+#for
+{
+  text-align: left;
+  float: left;
+  width: 150px;
+  min-height: 30px;
+  border-radius: 10px;
+}
+#hold
+{
+   
+    margin-left: 20px;
+}
+#set
+{
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+    border-style: inherit;
+}
+#face
+{
+    top: 200px;
+    margin-left: 200px;
+    position: absolute;
+    font-family: Arial;
+    line-height: 3px;
+}
+#place
+{
+   margin-top: 160px;
+   margin-left: 750px;
+
+}
+#easy
+{
+   border-style: groove;
+   min-height: 700px; 
+   width: 600px;   
+}
+

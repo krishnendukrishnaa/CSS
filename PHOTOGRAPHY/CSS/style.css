@@ -1,0 +1,67 @@
+#j1
+{
+    color: blueviolet;
+}
+#hh
+{
+    background-color: blueviolet;
+    margin: 100px;
+    padding: 20px;
+}
+#st
+{
+   background-color: blue; 
+    min-height: 200px;
+}
+#ph
+{
+    color: white;
+    text-align: center;
+    
+}
+.icon
+{
+    display: flex;
+    background-color: white;
+    color: black;
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    text-align: center;
+    flex-direction: row;
+}
+#dr
+{
+    position: absolute; 
+    left: 700px; 
+    top: 250px;
+}
+#red
+{
+  display: flex;  
+  justify-content: flex-end;
+  padding: 20px 50px;
+}
+
+
+#blog
+{
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px 50px;
+}
+.studio
+{
+    display: inline-block;
+    padding: 0 20px;
+    
+}
+.cam
+{
+    text-decoration: none;
+    color:white;
+}
+
+
+
+
